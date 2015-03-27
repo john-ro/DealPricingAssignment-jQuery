@@ -90,7 +90,7 @@ Assume that the server has already sent you a collection of the products in the 
 		
  
 Assignment
-=====================================================
+-------------------------------------------------------------------------
  
 
 1) Create an HTML mock-up of the pricing UI above. Please note that there are three different views shown – the view should switch in accordance to what is selected in the pricing level dropdown. The interface needs to fulfill the following requirements:
@@ -115,6 +115,9 @@ Your mock-up should be styled with CSS, but may use the static data provided in 
 	
  
 Evaluation: You will be rated on the following scale:
+
 •	Neatness and Usability of the UI: 40%
+
 •	Technical Ability: 40%
+
 •	Readability of Code: 20%
